@@ -7,4 +7,4 @@ def func = {item -> println item}
 func("hello")
 
 func = {println it}
-func("world","yijun")
+func("world")
