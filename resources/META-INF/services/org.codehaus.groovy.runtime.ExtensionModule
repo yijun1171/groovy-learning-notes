@@ -1,0 +1,5 @@
+#扩展模块
+moduleName=Retries
+moduleVersion=1.0-test
+extensionClasses=com.github.yj.groovy.mp.module.MaxRetriesExtension
+staticExtensionClasses=com.github.yj.groovy.mp.module.StaticExtension
